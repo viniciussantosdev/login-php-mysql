@@ -17,6 +17,9 @@
             justify-content: center;
             display: flex;
         }
+        .container{
+            width: 400px;
+        }
     </style>
 </head>
 <body>
